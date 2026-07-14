@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://image-viewer.us/sitemap.xml
