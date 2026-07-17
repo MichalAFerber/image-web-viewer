@@ -81,7 +81,8 @@ images can be shown.
 
 Bundled: [UTIF.js](https://github.com/photopea/UTIF.js) (MIT) for TIFF. The other
 decoders and the UI are original to this project. Icon by the author. Analytics
-by [Plausible](https://plausible.io/).
+by [Plausible](https://plausible.io/). Headings use a subset of
+[JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) (SIL OFL-1.1).
 
 ## License
 

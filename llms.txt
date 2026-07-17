@@ -1,0 +1,13 @@
+# Image Viewer
+
+> A fast, single-file image viewer for the whole gamut of formats — PNG, JPEG, GIF, WebP, AVIF, SVG, BMP, ICO plus TIFF, TGA, QOI, PCX, PPM/PGM/PBM, farbfeld and DDS. Zoom, pan, inspect metadata and export to PNG. Nothing uploaded.
+
+The viewer is one self-contained HTML file (no build step) and works offline. Files never leave the visitor's device — no uploads, no accounts, no server-side processing.
+
+## Links
+
+- [Open the viewer](https://image-viewer.us/)
+- [GitHub](https://github.com/MichalAFerber/image-web-viewer): Source (single index.html)
+- [File Viewer family hub](https://file-viewer.us/): All viewers in the family
+- [Privacy Policy](https://file-viewer.us/privacy.html)
+- [Terms of Use](https://file-viewer.us/terms.html)

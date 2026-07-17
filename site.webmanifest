@@ -1,0 +1,18 @@
+{
+  "name": "Image Viewer",
+  "short_name": "Image Viewer",
+  "description": "A fast, single-file image viewer for the whole gamut of formats \u2014 PNG, JPEG, GIF, WebP, AVIF, SVG, BMP, ICO plus TIFF, TGA, QOI, PCX, PPM/PGM/PBM, farbfeld and DDS. Zoom, pan, inspect metadata and export to PNG. Nothing uploaded.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
